@@ -1,0 +1,22 @@
+{
+  "name": "sylvia-plath-mirrors",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Sylvia Plath — generates intensely vivid, confessional poetry with sharp imagery and emotional depth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "sylvia-plath",
+    "confessional",
+    "mirrors",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/sylvia-plath-mirrors"
+  }
+}
